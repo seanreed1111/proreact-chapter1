@@ -1,0 +1,660 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/Cellar/node/6.3.0/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'shrinkwrap',
+1 verbose cli   '--dev' ]
+2 info using npm@3.10.3
+3 info using node@v6.3.0
+4 info lifecycle chapter-1@1.0.0~preshrinkwrap: chapter-1@1.0.0
+5 silly lifecycle chapter-1@1.0.0~preshrinkwrap: no script for preshrinkwrap, continuing
+6 info lifecycle chapter-1@1.0.0~shrinkwrap: chapter-1@1.0.0
+7 silly lifecycle chapter-1@1.0.0~shrinkwrap: no script for shrinkwrap, continuing
+8 verbose stack Error: Problems were encountered
+8 verbose stack Please correct and try again.
+8 verbose stack invalid: have react@0.13.3 (expected: ^15.0.0) /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/react
+8 verbose stack extraneous: acorn@1.2.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/acorn
+8 verbose stack extraneous: align-text@0.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/align-text
+8 verbose stack extraneous: alter@0.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/alter
+8 verbose stack extraneous: anymatch@1.3.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/anymatch
+8 verbose stack extraneous: arr-diff@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/arr-diff
+8 verbose stack extraneous: arr-flatten@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/arr-flatten
+8 verbose stack extraneous: array-unique@0.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/array-unique
+8 verbose stack extraneous: arrify@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/arrify
+8 verbose stack extraneous: assert@1.4.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/assert
+8 verbose stack extraneous: ast-traverse@0.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/ast-traverse
+8 verbose stack extraneous: ast-types@0.8.15 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/ast-types
+8 verbose stack extraneous: async@1.5.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/async
+8 verbose stack extraneous: async-each@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/async-each
+8 verbose stack extraneous: babel-core@5.8.38 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-core
+8 verbose stack extraneous: minimatch@2.0.10 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-core/node_modules/minimatch
+8 verbose stack extraneous: source-map@0.5.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-core/node_modules/source-map
+8 verbose stack extraneous: babel-loader@5.4.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-loader
+8 verbose stack extraneous: object-assign@3.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-loader/node_modules/object-assign
+8 verbose stack extraneous: babel-plugin-constant-folding@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-constant-folding
+8 verbose stack extraneous: babel-plugin-dead-code-elimination@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-dead-code-elimination
+8 verbose stack extraneous: babel-plugin-eval@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-eval
+8 verbose stack extraneous: babel-plugin-inline-environment-variables@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-inline-environment-variables
+8 verbose stack extraneous: babel-plugin-jscript@1.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-jscript
+8 verbose stack extraneous: babel-plugin-member-expression-literals@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-member-expression-literals
+8 verbose stack extraneous: babel-plugin-property-literals@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-property-literals
+8 verbose stack extraneous: babel-plugin-proto-to-assign@1.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-proto-to-assign
+8 verbose stack extraneous: babel-plugin-react-constant-elements@1.0.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-react-constant-elements
+8 verbose stack extraneous: babel-plugin-react-display-name@1.0.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-react-display-name
+8 verbose stack extraneous: babel-plugin-remove-console@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-remove-console
+8 verbose stack extraneous: babel-plugin-remove-debugger@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-remove-debugger
+8 verbose stack extraneous: babel-plugin-runtime@1.0.7 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-runtime
+8 verbose stack extraneous: babel-plugin-undeclared-variables-check@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-undeclared-variables-check
+8 verbose stack extraneous: babel-plugin-undefined-to-void@1.1.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-undefined-to-void
+8 verbose stack extraneous: babylon@5.8.38 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babylon
+8 verbose stack extraneous: base62@1.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/base62
+8 verbose stack extraneous: Base64@0.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/Base64
+8 verbose stack extraneous: base64-js@0.0.8 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/base64-js
+8 verbose stack extraneous: big.js@3.1.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/big.js
+8 verbose stack extraneous: binary-extensions@1.5.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/binary-extensions
+8 verbose stack extraneous: bluebird@2.10.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/bluebird
+8 verbose stack extraneous: braces@1.8.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/braces
+8 verbose stack extraneous: breakable@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/breakable
+8 verbose stack extraneous: browserify-zlib@0.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/browserify-zlib
+8 verbose stack extraneous: buffer@3.6.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/buffer
+8 verbose stack extraneous: camelcase@1.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/camelcase
+8 verbose stack extraneous: center-align@0.1.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/center-align
+8 verbose stack extraneous: chokidar@1.6.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/chokidar
+8 verbose stack extraneous: cliui@2.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/cliui
+8 verbose stack extraneous: clone@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/clone
+8 verbose stack extraneous: commander@2.9.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/commander
+8 verbose stack extraneous: commoner@0.10.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/commoner
+8 verbose stack extraneous: console-browserify@1.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/console-browserify
+8 verbose stack extraneous: constants-browserify@0.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/constants-browserify
+8 verbose stack extraneous: core-js@1.2.7 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/core-js
+8 verbose stack extraneous: crypto-browserify@3.2.8 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/crypto-browserify
+8 verbose stack extraneous: date-now@0.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/date-now
+8 verbose stack extraneous: decamelize@1.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/decamelize
+8 verbose stack extraneous: defined@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/defined
+8 verbose stack extraneous: defs@1.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/defs
+8 verbose stack extraneous: esprima-fb@15001.1001.0-dev-harmony-fb /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/defs/node_modules/esprima-fb
+8 verbose stack extraneous: detective@4.3.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/detective
+8 verbose stack extraneous: domain-browser@1.1.7 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/domain-browser
+8 verbose stack extraneous: emojis-list@2.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/emojis-list
+8 verbose stack extraneous: enhanced-resolve@0.9.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/enhanced-resolve
+8 verbose stack extraneous: memory-fs@0.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/enhanced-resolve/node_modules/memory-fs
+8 verbose stack extraneous: envify@3.4.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/envify
+8 verbose stack extraneous: esprima-fb@15001.1.0-dev-harmony-fb /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/esprima-fb
+8 verbose stack extraneous: events@1.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/events
+8 verbose stack extraneous: expand-brackets@0.1.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/expand-brackets
+8 verbose stack extraneous: expand-range@1.8.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/expand-range
+8 verbose stack extraneous: extglob@0.3.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/extglob
+8 verbose stack extraneous: filename-regex@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/filename-regex
+8 verbose stack extraneous: fill-range@2.2.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fill-range
+8 verbose stack extraneous: for-in@0.1.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/for-in
+8 verbose stack extraneous: for-own@0.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/for-own
+8 verbose stack extraneous: fs-readdir-recursive@0.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fs-readdir-recursive
+8 verbose stack extraneous: fsevents@1.0.14 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents
+8 verbose stack extraneous: abbrev@1.0.9 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/abbrev
+8 verbose stack extraneous: ansi-regex@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/ansi-regex
+8 verbose stack extraneous: ansi-styles@2.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/ansi-styles
+8 verbose stack extraneous: aproba@1.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/aproba
+8 verbose stack extraneous: are-we-there-yet@1.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/are-we-there-yet
+8 verbose stack extraneous: asn1@0.2.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/asn1
+8 verbose stack extraneous: assert-plus@0.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/assert-plus
+8 verbose stack extraneous: async@1.5.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/async
+8 verbose stack extraneous: aws-sign2@0.6.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/aws-sign2
+8 verbose stack extraneous: aws4@1.4.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/aws4
+8 verbose stack extraneous: balanced-match@0.4.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/balanced-match
+8 verbose stack extraneous: bl@1.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/bl
+8 verbose stack extraneous: readable-stream@2.0.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/bl/node_modules/readable-stream
+8 verbose stack extraneous: block-stream@0.0.9 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/block-stream
+8 verbose stack extraneous: boom@2.10.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/boom
+8 verbose stack extraneous: brace-expansion@1.1.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/brace-expansion
+8 verbose stack extraneous: buffer-shims@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/buffer-shims
+8 verbose stack extraneous: caseless@0.11.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/caseless
+8 verbose stack extraneous: chalk@1.1.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/chalk
+8 verbose stack extraneous: code-point-at@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/code-point-at
+8 verbose stack extraneous: combined-stream@1.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/combined-stream
+8 verbose stack extraneous: commander@2.9.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/commander
+8 verbose stack extraneous: concat-map@0.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/concat-map
+8 verbose stack extraneous: console-control-strings@1.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/console-control-strings
+8 verbose stack extraneous: core-util-is@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/core-util-is
+8 verbose stack extraneous: cryptiles@2.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/cryptiles
+8 verbose stack extraneous: dashdash@1.14.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/dashdash
+8 verbose stack extraneous: assert-plus@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/dashdash/node_modules/assert-plus
+8 verbose stack extraneous: debug@2.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/debug
+8 verbose stack extraneous: deep-extend@0.4.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/deep-extend
+8 verbose stack extraneous: delayed-stream@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/delayed-stream
+8 verbose stack extraneous: delegates@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/delegates
+8 verbose stack extraneous: ecc-jsbn@0.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/ecc-jsbn
+8 verbose stack extraneous: escape-string-regexp@1.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/escape-string-regexp
+8 verbose stack extraneous: extend@3.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/extend
+8 verbose stack extraneous: extsprintf@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/extsprintf
+8 verbose stack extraneous: forever-agent@0.6.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/forever-agent
+8 verbose stack extraneous: form-data@1.0.0-rc4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/form-data
+8 verbose stack extraneous: fs.realpath@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/fs.realpath
+8 verbose stack extraneous: fstream@1.0.10 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/fstream
+8 verbose stack extraneous: fstream-ignore@1.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/fstream-ignore
+8 verbose stack extraneous: gauge@2.6.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/gauge
+8 verbose stack extraneous: generate-function@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/generate-function
+8 verbose stack extraneous: generate-object-property@1.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/generate-object-property
+8 verbose stack extraneous: getpass@0.1.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/getpass
+8 verbose stack extraneous: assert-plus@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/getpass/node_modules/assert-plus
+8 verbose stack extraneous: glob@7.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/glob
+8 verbose stack extraneous: graceful-fs@4.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/graceful-fs
+8 verbose stack extraneous: graceful-readlink@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/graceful-readlink
+8 verbose stack extraneous: har-validator@2.0.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/har-validator
+8 verbose stack extraneous: has-ansi@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/has-ansi
+8 verbose stack extraneous: has-color@0.1.7 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/has-color
+8 verbose stack extraneous: has-unicode@2.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/has-unicode
+8 verbose stack extraneous: hawk@3.1.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/hawk
+8 verbose stack extraneous: hoek@2.16.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/hoek
+8 verbose stack extraneous: http-signature@1.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/http-signature
+8 verbose stack extraneous: inflight@1.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/inflight
+8 verbose stack extraneous: inherits@2.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/inherits
+8 verbose stack extraneous: ini@1.3.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/ini
+8 verbose stack extraneous: is-fullwidth-code-point@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/is-fullwidth-code-point
+8 verbose stack extraneous: is-my-json-valid@2.13.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/is-my-json-valid
+8 verbose stack extraneous: is-property@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/is-property
+8 verbose stack extraneous: is-typedarray@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/is-typedarray
+8 verbose stack extraneous: isarray@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/isarray
+8 verbose stack extraneous: isstream@0.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/isstream
+8 verbose stack extraneous: jodid25519@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/jodid25519
+8 verbose stack extraneous: jsbn@0.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/jsbn
+8 verbose stack extraneous: json-schema@0.2.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/json-schema
+8 verbose stack extraneous: json-stringify-safe@5.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/json-stringify-safe
+8 verbose stack extraneous: jsonpointer@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/jsonpointer
+8 verbose stack extraneous: jsprim@1.3.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/jsprim
+8 verbose stack extraneous: mime-db@1.23.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/mime-db
+8 verbose stack extraneous: mime-types@2.1.11 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/mime-types
+8 verbose stack extraneous: minimatch@3.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/minimatch
+8 verbose stack extraneous: minimist@0.0.8 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/minimist
+8 verbose stack extraneous: mkdirp@0.5.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/mkdirp
+8 verbose stack extraneous: ms@0.7.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/ms
+8 verbose stack extraneous: node-pre-gyp@0.6.29 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/node-pre-gyp
+8 verbose stack extraneous: node-uuid@1.4.7 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/node-uuid
+8 verbose stack extraneous: nopt@3.0.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/nopt
+8 verbose stack extraneous: npmlog@3.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/npmlog
+8 verbose stack extraneous: number-is-nan@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/number-is-nan
+8 verbose stack extraneous: oauth-sign@0.8.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/oauth-sign
+8 verbose stack extraneous: object-assign@4.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/object-assign
+8 verbose stack extraneous: once@1.3.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/once
+8 verbose stack extraneous: path-is-absolute@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/path-is-absolute
+8 verbose stack extraneous: pinkie@2.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/pinkie
+8 verbose stack extraneous: pinkie-promise@2.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/pinkie-promise
+8 verbose stack extraneous: process-nextick-args@1.0.7 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/process-nextick-args
+8 verbose stack extraneous: qs@6.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/qs
+8 verbose stack extraneous: rc@1.1.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/rc
+8 verbose stack extraneous: minimist@1.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/rc/node_modules/minimist
+8 verbose stack extraneous: readable-stream@2.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/readable-stream
+8 verbose stack extraneous: request@2.73.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/request
+8 verbose stack extraneous: rimraf@2.5.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/rimraf
+8 verbose stack extraneous: semver@5.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/semver
+8 verbose stack extraneous: set-blocking@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/set-blocking
+8 verbose stack extraneous: signal-exit@3.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/signal-exit
+8 verbose stack extraneous: sntp@1.0.9 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/sntp
+8 verbose stack extraneous: sshpk@1.8.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/sshpk
+8 verbose stack extraneous: assert-plus@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/sshpk/node_modules/assert-plus
+8 verbose stack extraneous: string_decoder@0.10.31 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/string_decoder
+8 verbose stack extraneous: string-width@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/string-width
+8 verbose stack extraneous: stringstream@0.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/stringstream
+8 verbose stack extraneous: strip-ansi@3.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/strip-ansi
+8 verbose stack extraneous: strip-json-comments@1.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/strip-json-comments
+8 verbose stack extraneous: supports-color@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/supports-color
+8 verbose stack extraneous: tar@2.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/tar
+8 verbose stack extraneous: tar-pack@3.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/tar-pack
+8 verbose stack extraneous: tough-cookie@2.2.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/tough-cookie
+8 verbose stack extraneous: tunnel-agent@0.4.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/tunnel-agent
+8 verbose stack extraneous: tweetnacl@0.13.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/tweetnacl
+8 verbose stack extraneous: uid-number@0.0.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/uid-number
+8 verbose stack extraneous: util-deprecate@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/util-deprecate
+8 verbose stack extraneous: verror@1.3.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/verror
+8 verbose stack extraneous: wide-align@1.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/wide-align
+8 verbose stack extraneous: wrappy@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/wrappy
+8 verbose stack extraneous: xtend@4.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/xtend
+8 verbose stack extraneous: glob@5.0.15 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/glob
+8 verbose stack extraneous: glob-base@0.3.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/glob-base
+8 verbose stack extraneous: glob-parent@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/glob-parent
+8 verbose stack extraneous: globals@6.4.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/globals
+8 verbose stack extraneous: graceful-fs@4.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/graceful-fs
+8 verbose stack extraneous: graceful-readlink@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/graceful-readlink
+8 verbose stack extraneous: http-browserify@1.7.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/http-browserify
+8 verbose stack extraneous: https-browserify@0.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/https-browserify
+8 verbose stack extraneous: iconv-lite@0.4.13 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/iconv-lite
+8 verbose stack extraneous: ieee754@1.1.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/ieee754
+8 verbose stack extraneous: indexof@0.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/indexof
+8 verbose stack extraneous: inflight@1.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/inflight
+8 verbose stack extraneous: interpret@0.6.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/interpret
+8 verbose stack extraneous: invert-kv@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/invert-kv
+8 verbose stack extraneous: is-binary-path@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-binary-path
+8 verbose stack extraneous: is-buffer@1.1.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-buffer
+8 verbose stack extraneous: is-dotfile@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-dotfile
+8 verbose stack extraneous: is-equal-shallow@0.1.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-equal-shallow
+8 verbose stack extraneous: is-extendable@0.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-extendable
+8 verbose stack extraneous: is-extglob@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-extglob
+8 verbose stack extraneous: is-glob@2.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-glob
+8 verbose stack extraneous: is-integer@1.0.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-integer
+8 verbose stack extraneous: is-number@2.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-number
+8 verbose stack extraneous: is-posix-bracket@0.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-posix-bracket
+8 verbose stack extraneous: is-primitive@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-primitive
+8 verbose stack extraneous: isobject@2.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/isobject
+8 verbose stack extraneous: jstransform@11.0.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/jstransform
+8 verbose stack extraneous: kind-of@3.0.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/kind-of
+8 verbose stack extraneous: lazy-cache@1.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/lazy-cache
+8 verbose stack extraneous: lcid@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/lcid
+8 verbose stack extraneous: leven@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/leven
+8 verbose stack extraneous: loader-utils@0.2.15 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/loader-utils
+8 verbose stack extraneous: json5@0.5.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/loader-utils/node_modules/json5
+8 verbose stack extraneous: object-assign@4.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/loader-utils/node_modules/object-assign
+8 verbose stack extraneous: lodash@3.10.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/lodash
+8 verbose stack extraneous: longest@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/longest
+8 verbose stack extraneous: micromatch@2.3.11 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/micromatch
+8 verbose stack extraneous: nan@2.4.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/nan
+8 verbose stack extraneous: node-libs-browser@0.5.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/node-libs-browser
+8 verbose stack extraneous: isarray@0.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/node-libs-browser/node_modules/isarray
+8 verbose stack extraneous: readable-stream@1.1.14 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/node-libs-browser/node_modules/readable-stream
+8 verbose stack extraneous: normalize-path@2.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/normalize-path
+8 verbose stack extraneous: object-assign@2.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/object-assign
+8 verbose stack extraneous: object.omit@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/object.omit
+8 verbose stack extraneous: once@1.3.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/once
+8 verbose stack extraneous: os-browserify@0.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/os-browserify
+8 verbose stack extraneous: os-locale@1.4.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/os-locale
+8 verbose stack extraneous: output-file-sync@1.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/output-file-sync
+8 verbose stack extraneous: object-assign@4.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/output-file-sync/node_modules/object-assign
+8 verbose stack extraneous: pako@0.2.8 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/pako
+8 verbose stack extraneous: parse-glob@3.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/parse-glob
+8 verbose stack extraneous: path-browserify@0.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/path-browserify
+8 verbose stack extraneous: pbkdf2-compat@2.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/pbkdf2-compat
+8 verbose stack extraneous: preserve@0.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/preserve
+8 verbose stack extraneous: process@0.11.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/process
+8 verbose stack extraneous: punycode@1.4.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/punycode
+8 verbose stack extraneous: q@1.4.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/q
+8 verbose stack extraneous: querystring@0.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/querystring
+8 verbose stack extraneous: querystring-es3@0.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/querystring-es3
+8 verbose stack extraneous: randomatic@1.1.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/randomatic
+8 verbose stack extraneous: react@0.13.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/react
+8 verbose stack peer invalid: react@^15.2.1, required by react-dom@15.2.1
+8 verbose stack extraneous: readdirp@2.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/readdirp
+8 verbose stack extraneous: recast@0.10.43 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/recast
+8 verbose stack extraneous: esprima-fb@15001.1001.0-dev-harmony-fb /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/recast/node_modules/esprima-fb
+8 verbose stack extraneous: source-map@0.5.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/recast/node_modules/source-map
+8 verbose stack extraneous: regenerator@0.8.40 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regenerator
+8 verbose stack extraneous: ast-types@0.8.12 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regenerator/node_modules/ast-types
+8 verbose stack extraneous: esprima-fb@15001.1001.0-dev-harmony-fb /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regenerator/node_modules/esprima-fb
+8 verbose stack extraneous: recast@0.10.33 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regenerator/node_modules/recast
+8 verbose stack extraneous: source-map@0.5.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regenerator/node_modules/source-map
+8 verbose stack extraneous: regex-cache@0.4.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regex-cache
+8 verbose stack extraneous: regexpu@1.3.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regexpu
+8 verbose stack extraneous: esprima@2.7.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regexpu/node_modules/esprima
+8 verbose stack extraneous: repeat-element@1.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/repeat-element
+8 verbose stack extraneous: repeat-string@1.5.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/repeat-string
+8 verbose stack extraneous: resolve@1.1.7 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/resolve
+8 verbose stack extraneous: right-align@0.1.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/right-align
+8 verbose stack extraneous: ripemd160@0.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/ripemd160
+8 verbose stack extraneous: set-immediate-shim@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/set-immediate-shim
+8 verbose stack extraneous: sha.js@2.2.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/sha.js
+8 verbose stack extraneous: simple-fmt@0.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/simple-fmt
+8 verbose stack extraneous: simple-is@0.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/simple-is
+8 verbose stack extraneous: source-list-map@0.1.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/source-list-map
+8 verbose stack extraneous: source-map@0.4.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/source-map
+8 verbose stack extraneous: stable@0.1.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/stable
+8 verbose stack extraneous: stream-browserify@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/stream-browserify
+8 verbose stack extraneous: isarray@0.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/stream-browserify/node_modules/isarray
+8 verbose stack extraneous: readable-stream@1.1.14 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/stream-browserify/node_modules/readable-stream
+8 verbose stack extraneous: stringmap@0.2.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/stringmap
+8 verbose stack extraneous: stringset@0.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/stringset
+8 verbose stack extraneous: tapable@0.1.10 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/tapable
+8 verbose stack extraneous: through@2.3.8 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/through
+8 verbose stack extraneous: timers-browserify@1.4.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/timers-browserify
+8 verbose stack extraneous: trim-right@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/trim-right
+8 verbose stack extraneous: try-resolve@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/try-resolve
+8 verbose stack extraneous: tryor@0.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/tryor
+8 verbose stack extraneous: tty-browserify@0.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/tty-browserify
+8 verbose stack extraneous: uglify-js@2.6.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/uglify-js
+8 verbose stack extraneous: async@0.2.10 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/uglify-js/node_modules/async
+8 verbose stack extraneous: source-map@0.5.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/uglify-js/node_modules/source-map
+8 verbose stack extraneous: window-size@0.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/uglify-js/node_modules/window-size
+8 verbose stack extraneous: yargs@3.10.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/uglify-js/node_modules/yargs
+8 verbose stack extraneous: uglify-to-browserify@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/uglify-to-browserify
+8 verbose stack extraneous: url@0.10.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/url
+8 verbose stack extraneous: punycode@1.3.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/url/node_modules/punycode
+8 verbose stack extraneous: util@0.10.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/util
+8 verbose stack extraneous: vm-browserify@0.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/vm-browserify
+8 verbose stack extraneous: watchpack@0.2.9 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/watchpack
+8 verbose stack extraneous: async@0.9.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/watchpack/node_modules/async
+8 verbose stack extraneous: webpack@1.13.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/webpack
+8 verbose stack extraneous: acorn@3.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/webpack/node_modules/acorn
+8 verbose stack extraneous: supports-color@3.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/webpack/node_modules/supports-color
+8 verbose stack extraneous: webpack-core@0.6.8 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/webpack-core
+8 verbose stack extraneous: window-size@0.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/window-size
+8 verbose stack extraneous: wrappy@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/wrappy
+8 verbose stack extraneous: y18n@3.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/y18n
+8 verbose stack extraneous: yargs@3.27.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/yargs
+8 verbose stack     at shrinkwrap_ (/usr/local/lib/node_modules/npm/lib/shrinkwrap.js:118:15)
+8 verbose stack     at Array.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/slide/lib/bind-actor.js:15:8)
+8 verbose stack     at LOOP (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:15:14)
+8 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:18:7
+8 verbose stack     at done (/usr/local/lib/node_modules/npm/lib/utils/lifecycle.js:129:5)
+8 verbose stack     at LOOP (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:7:26)
+8 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:18:7
+8 verbose stack     at /usr/local/lib/node_modules/npm/lib/utils/lifecycle.js:281:20
+8 verbose stack     at FSReqWrap.oncomplete (fs.js:123:15)
+9 verbose cwd /Users/seanreed1/Development/React/ProReact/chapter-1
+10 error Darwin 14.5.0
+11 error argv "/usr/local/Cellar/node/6.3.0/bin/node" "/usr/local/bin/npm" "shrinkwrap" "--dev"
+12 error node v6.3.0
+13 error npm  v3.10.3
+14 error Problems were encountered
+14 error Please correct and try again.
+14 error invalid: have react@0.13.3 (expected: ^15.0.0) /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/react
+14 error extraneous: acorn@1.2.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/acorn
+14 error extraneous: align-text@0.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/align-text
+14 error extraneous: alter@0.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/alter
+14 error extraneous: anymatch@1.3.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/anymatch
+14 error extraneous: arr-diff@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/arr-diff
+14 error extraneous: arr-flatten@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/arr-flatten
+14 error extraneous: array-unique@0.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/array-unique
+14 error extraneous: arrify@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/arrify
+14 error extraneous: assert@1.4.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/assert
+14 error extraneous: ast-traverse@0.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/ast-traverse
+14 error extraneous: ast-types@0.8.15 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/ast-types
+14 error extraneous: async@1.5.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/async
+14 error extraneous: async-each@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/async-each
+14 error extraneous: babel-core@5.8.38 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-core
+14 error extraneous: minimatch@2.0.10 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-core/node_modules/minimatch
+14 error extraneous: source-map@0.5.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-core/node_modules/source-map
+14 error extraneous: babel-loader@5.4.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-loader
+14 error extraneous: object-assign@3.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-loader/node_modules/object-assign
+14 error extraneous: babel-plugin-constant-folding@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-constant-folding
+14 error extraneous: babel-plugin-dead-code-elimination@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-dead-code-elimination
+14 error extraneous: babel-plugin-eval@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-eval
+14 error extraneous: babel-plugin-inline-environment-variables@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-inline-environment-variables
+14 error extraneous: babel-plugin-jscript@1.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-jscript
+14 error extraneous: babel-plugin-member-expression-literals@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-member-expression-literals
+14 error extraneous: babel-plugin-property-literals@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-property-literals
+14 error extraneous: babel-plugin-proto-to-assign@1.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-proto-to-assign
+14 error extraneous: babel-plugin-react-constant-elements@1.0.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-react-constant-elements
+14 error extraneous: babel-plugin-react-display-name@1.0.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-react-display-name
+14 error extraneous: babel-plugin-remove-console@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-remove-console
+14 error extraneous: babel-plugin-remove-debugger@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-remove-debugger
+14 error extraneous: babel-plugin-runtime@1.0.7 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-runtime
+14 error extraneous: babel-plugin-undeclared-variables-check@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-undeclared-variables-check
+14 error extraneous: babel-plugin-undefined-to-void@1.1.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babel-plugin-undefined-to-void
+14 error extraneous: babylon@5.8.38 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/babylon
+14 error extraneous: base62@1.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/base62
+14 error extraneous: Base64@0.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/Base64
+14 error extraneous: base64-js@0.0.8 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/base64-js
+14 error extraneous: big.js@3.1.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/big.js
+14 error extraneous: binary-extensions@1.5.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/binary-extensions
+14 error extraneous: bluebird@2.10.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/bluebird
+14 error extraneous: braces@1.8.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/braces
+14 error extraneous: breakable@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/breakable
+14 error extraneous: browserify-zlib@0.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/browserify-zlib
+14 error extraneous: buffer@3.6.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/buffer
+14 error extraneous: camelcase@1.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/camelcase
+14 error extraneous: center-align@0.1.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/center-align
+14 error extraneous: chokidar@1.6.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/chokidar
+14 error extraneous: cliui@2.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/cliui
+14 error extraneous: clone@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/clone
+14 error extraneous: commander@2.9.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/commander
+14 error extraneous: commoner@0.10.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/commoner
+14 error extraneous: console-browserify@1.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/console-browserify
+14 error extraneous: constants-browserify@0.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/constants-browserify
+14 error extraneous: core-js@1.2.7 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/core-js
+14 error extraneous: crypto-browserify@3.2.8 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/crypto-browserify
+14 error extraneous: date-now@0.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/date-now
+14 error extraneous: decamelize@1.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/decamelize
+14 error extraneous: defined@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/defined
+14 error extraneous: defs@1.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/defs
+14 error extraneous: esprima-fb@15001.1001.0-dev-harmony-fb /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/defs/node_modules/esprima-fb
+14 error extraneous: detective@4.3.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/detective
+14 error extraneous: domain-browser@1.1.7 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/domain-browser
+14 error extraneous: emojis-list@2.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/emojis-list
+14 error extraneous: enhanced-resolve@0.9.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/enhanced-resolve
+14 error extraneous: memory-fs@0.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/enhanced-resolve/node_modules/memory-fs
+14 error extraneous: envify@3.4.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/envify
+14 error extraneous: esprima-fb@15001.1.0-dev-harmony-fb /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/esprima-fb
+14 error extraneous: events@1.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/events
+14 error extraneous: expand-brackets@0.1.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/expand-brackets
+14 error extraneous: expand-range@1.8.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/expand-range
+14 error extraneous: extglob@0.3.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/extglob
+14 error extraneous: filename-regex@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/filename-regex
+14 error extraneous: fill-range@2.2.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fill-range
+14 error extraneous: for-in@0.1.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/for-in
+14 error extraneous: for-own@0.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/for-own
+14 error extraneous: fs-readdir-recursive@0.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fs-readdir-recursive
+14 error extraneous: fsevents@1.0.14 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents
+14 error extraneous: abbrev@1.0.9 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/abbrev
+14 error extraneous: ansi-regex@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/ansi-regex
+14 error extraneous: ansi-styles@2.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/ansi-styles
+14 error extraneous: aproba@1.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/aproba
+14 error extraneous: are-we-there-yet@1.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/are-we-there-yet
+14 error extraneous: asn1@0.2.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/asn1
+14 error extraneous: assert-plus@0.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/assert-plus
+14 error extraneous: async@1.5.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/async
+14 error extraneous: aws-sign2@0.6.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/aws-sign2
+14 error extraneous: aws4@1.4.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/aws4
+14 error extraneous: balanced-match@0.4.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/balanced-match
+14 error extraneous: bl@1.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/bl
+14 error extraneous: readable-stream@2.0.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/bl/node_modules/readable-stream
+14 error extraneous: block-stream@0.0.9 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/block-stream
+14 error extraneous: boom@2.10.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/boom
+14 error extraneous: brace-expansion@1.1.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/brace-expansion
+14 error extraneous: buffer-shims@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/buffer-shims
+14 error extraneous: caseless@0.11.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/caseless
+14 error extraneous: chalk@1.1.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/chalk
+14 error extraneous: code-point-at@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/code-point-at
+14 error extraneous: combined-stream@1.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/combined-stream
+14 error extraneous: commander@2.9.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/commander
+14 error extraneous: concat-map@0.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/concat-map
+14 error extraneous: console-control-strings@1.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/console-control-strings
+14 error extraneous: core-util-is@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/core-util-is
+14 error extraneous: cryptiles@2.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/cryptiles
+14 error extraneous: dashdash@1.14.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/dashdash
+14 error extraneous: assert-plus@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/dashdash/node_modules/assert-plus
+14 error extraneous: debug@2.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/debug
+14 error extraneous: deep-extend@0.4.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/deep-extend
+14 error extraneous: delayed-stream@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/delayed-stream
+14 error extraneous: delegates@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/delegates
+14 error extraneous: ecc-jsbn@0.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/ecc-jsbn
+14 error extraneous: escape-string-regexp@1.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/escape-string-regexp
+14 error extraneous: extend@3.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/extend
+14 error extraneous: extsprintf@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/extsprintf
+14 error extraneous: forever-agent@0.6.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/forever-agent
+14 error extraneous: form-data@1.0.0-rc4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/form-data
+14 error extraneous: fs.realpath@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/fs.realpath
+14 error extraneous: fstream@1.0.10 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/fstream
+14 error extraneous: fstream-ignore@1.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/fstream-ignore
+14 error extraneous: gauge@2.6.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/gauge
+14 error extraneous: generate-function@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/generate-function
+14 error extraneous: generate-object-property@1.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/generate-object-property
+14 error extraneous: getpass@0.1.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/getpass
+14 error extraneous: assert-plus@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/getpass/node_modules/assert-plus
+14 error extraneous: glob@7.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/glob
+14 error extraneous: graceful-fs@4.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/graceful-fs
+14 error extraneous: graceful-readlink@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/graceful-readlink
+14 error extraneous: har-validator@2.0.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/har-validator
+14 error extraneous: has-ansi@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/has-ansi
+14 error extraneous: has-color@0.1.7 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/has-color
+14 error extraneous: has-unicode@2.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/has-unicode
+14 error extraneous: hawk@3.1.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/hawk
+14 error extraneous: hoek@2.16.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/hoek
+14 error extraneous: http-signature@1.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/http-signature
+14 error extraneous: inflight@1.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/inflight
+14 error extraneous: inherits@2.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/inherits
+14 error extraneous: ini@1.3.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/ini
+14 error extraneous: is-fullwidth-code-point@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/is-fullwidth-code-point
+14 error extraneous: is-my-json-valid@2.13.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/is-my-json-valid
+14 error extraneous: is-property@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/is-property
+14 error extraneous: is-typedarray@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/is-typedarray
+14 error extraneous: isarray@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/isarray
+14 error extraneous: isstream@0.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/isstream
+14 error extraneous: jodid25519@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/jodid25519
+14 error extraneous: jsbn@0.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/jsbn
+14 error extraneous: json-schema@0.2.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/json-schema
+14 error extraneous: json-stringify-safe@5.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/json-stringify-safe
+14 error extraneous: jsonpointer@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/jsonpointer
+14 error extraneous: jsprim@1.3.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/jsprim
+14 error extraneous: mime-db@1.23.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/mime-db
+14 error extraneous: mime-types@2.1.11 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/mime-types
+14 error extraneous: minimatch@3.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/minimatch
+14 error extraneous: minimist@0.0.8 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/minimist
+14 error extraneous: mkdirp@0.5.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/mkdirp
+14 error extraneous: ms@0.7.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/ms
+14 error extraneous: node-pre-gyp@0.6.29 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/node-pre-gyp
+14 error extraneous: node-uuid@1.4.7 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/node-uuid
+14 error extraneous: nopt@3.0.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/nopt
+14 error extraneous: npmlog@3.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/npmlog
+14 error extraneous: number-is-nan@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/number-is-nan
+14 error extraneous: oauth-sign@0.8.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/oauth-sign
+14 error extraneous: object-assign@4.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/object-assign
+14 error extraneous: once@1.3.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/once
+14 error extraneous: path-is-absolute@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/path-is-absolute
+14 error extraneous: pinkie@2.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/pinkie
+14 error extraneous: pinkie-promise@2.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/pinkie-promise
+14 error extraneous: process-nextick-args@1.0.7 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/process-nextick-args
+14 error extraneous: qs@6.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/qs
+14 error extraneous: rc@1.1.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/rc
+14 error extraneous: minimist@1.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/rc/node_modules/minimist
+14 error extraneous: readable-stream@2.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/readable-stream
+14 error extraneous: request@2.73.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/request
+14 error extraneous: rimraf@2.5.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/rimraf
+14 error extraneous: semver@5.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/semver
+14 error extraneous: set-blocking@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/set-blocking
+14 error extraneous: signal-exit@3.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/signal-exit
+14 error extraneous: sntp@1.0.9 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/sntp
+14 error extraneous: sshpk@1.8.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/sshpk
+14 error extraneous: assert-plus@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/sshpk/node_modules/assert-plus
+14 error extraneous: string_decoder@0.10.31 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/string_decoder
+14 error extraneous: string-width@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/string-width
+14 error extraneous: stringstream@0.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/stringstream
+14 error extraneous: strip-ansi@3.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/strip-ansi
+14 error extraneous: strip-json-comments@1.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/strip-json-comments
+14 error extraneous: supports-color@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/supports-color
+14 error extraneous: tar@2.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/tar
+14 error extraneous: tar-pack@3.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/tar-pack
+14 error extraneous: tough-cookie@2.2.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/tough-cookie
+14 error extraneous: tunnel-agent@0.4.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/tunnel-agent
+14 error extraneous: tweetnacl@0.13.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/tweetnacl
+14 error extraneous: uid-number@0.0.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/uid-number
+14 error extraneous: util-deprecate@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/util-deprecate
+14 error extraneous: verror@1.3.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/verror
+14 error extraneous: wide-align@1.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/wide-align
+14 error extraneous: wrappy@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/wrappy
+14 error extraneous: xtend@4.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/fsevents/node_modules/xtend
+14 error extraneous: glob@5.0.15 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/glob
+14 error extraneous: glob-base@0.3.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/glob-base
+14 error extraneous: glob-parent@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/glob-parent
+14 error extraneous: globals@6.4.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/globals
+14 error extraneous: graceful-fs@4.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/graceful-fs
+14 error extraneous: graceful-readlink@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/graceful-readlink
+14 error extraneous: http-browserify@1.7.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/http-browserify
+14 error extraneous: https-browserify@0.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/https-browserify
+14 error extraneous: iconv-lite@0.4.13 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/iconv-lite
+14 error extraneous: ieee754@1.1.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/ieee754
+14 error extraneous: indexof@0.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/indexof
+14 error extraneous: inflight@1.0.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/inflight
+14 error extraneous: interpret@0.6.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/interpret
+14 error extraneous: invert-kv@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/invert-kv
+14 error extraneous: is-binary-path@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-binary-path
+14 error extraneous: is-buffer@1.1.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-buffer
+14 error extraneous: is-dotfile@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-dotfile
+14 error extraneous: is-equal-shallow@0.1.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-equal-shallow
+14 error extraneous: is-extendable@0.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-extendable
+14 error extraneous: is-extglob@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-extglob
+14 error extraneous: is-glob@2.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-glob
+14 error extraneous: is-integer@1.0.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-integer
+14 error extraneous: is-number@2.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-number
+14 error extraneous: is-posix-bracket@0.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-posix-bracket
+14 error extraneous: is-primitive@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/is-primitive
+14 error extraneous: isobject@2.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/isobject
+14 error extraneous: jstransform@11.0.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/jstransform
+14 error extraneous: kind-of@3.0.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/kind-of
+14 error extraneous: lazy-cache@1.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/lazy-cache
+14 error extraneous: lcid@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/lcid
+14 error extraneous: leven@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/leven
+14 error extraneous: loader-utils@0.2.15 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/loader-utils
+14 error extraneous: json5@0.5.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/loader-utils/node_modules/json5
+14 error extraneous: object-assign@4.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/loader-utils/node_modules/object-assign
+14 error extraneous: lodash@3.10.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/lodash
+14 error extraneous: longest@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/longest
+14 error extraneous: micromatch@2.3.11 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/micromatch
+14 error extraneous: nan@2.4.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/nan
+14 error extraneous: node-libs-browser@0.5.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/node-libs-browser
+14 error extraneous: isarray@0.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/node-libs-browser/node_modules/isarray
+14 error extraneous: readable-stream@1.1.14 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/node-libs-browser/node_modules/readable-stream
+14 error extraneous: normalize-path@2.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/normalize-path
+14 error extraneous: object-assign@2.1.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/object-assign
+14 error extraneous: object.omit@2.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/object.omit
+14 error extraneous: once@1.3.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/once
+14 error extraneous: os-browserify@0.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/os-browserify
+14 error extraneous: os-locale@1.4.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/os-locale
+14 error extraneous: output-file-sync@1.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/output-file-sync
+14 error extraneous: object-assign@4.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/output-file-sync/node_modules/object-assign
+14 error extraneous: pako@0.2.8 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/pako
+14 error extraneous: parse-glob@3.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/parse-glob
+14 error extraneous: path-browserify@0.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/path-browserify
+14 error extraneous: pbkdf2-compat@2.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/pbkdf2-compat
+14 error extraneous: preserve@0.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/preserve
+14 error extraneous: process@0.11.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/process
+14 error extraneous: punycode@1.4.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/punycode
+14 error extraneous: q@1.4.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/q
+14 error extraneous: querystring@0.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/querystring
+14 error extraneous: querystring-es3@0.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/querystring-es3
+14 error extraneous: randomatic@1.1.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/randomatic
+14 error extraneous: react@0.13.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/react
+14 error peer invalid: react@^15.2.1, required by react-dom@15.2.1
+14 error extraneous: readdirp@2.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/readdirp
+14 error extraneous: recast@0.10.43 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/recast
+14 error extraneous: esprima-fb@15001.1001.0-dev-harmony-fb /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/recast/node_modules/esprima-fb
+14 error extraneous: source-map@0.5.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/recast/node_modules/source-map
+14 error extraneous: regenerator@0.8.40 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regenerator
+14 error extraneous: ast-types@0.8.12 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regenerator/node_modules/ast-types
+14 error extraneous: esprima-fb@15001.1001.0-dev-harmony-fb /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regenerator/node_modules/esprima-fb
+14 error extraneous: recast@0.10.33 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regenerator/node_modules/recast
+14 error extraneous: source-map@0.5.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regenerator/node_modules/source-map
+14 error extraneous: regex-cache@0.4.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regex-cache
+14 error extraneous: regexpu@1.3.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regexpu
+14 error extraneous: esprima@2.7.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/regexpu/node_modules/esprima
+14 error extraneous: repeat-element@1.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/repeat-element
+14 error extraneous: repeat-string@1.5.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/repeat-string
+14 error extraneous: resolve@1.1.7 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/resolve
+14 error extraneous: right-align@0.1.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/right-align
+14 error extraneous: ripemd160@0.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/ripemd160
+14 error extraneous: set-immediate-shim@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/set-immediate-shim
+14 error extraneous: sha.js@2.2.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/sha.js
+14 error extraneous: simple-fmt@0.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/simple-fmt
+14 error extraneous: simple-is@0.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/simple-is
+14 error extraneous: source-list-map@0.1.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/source-list-map
+14 error extraneous: source-map@0.4.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/source-map
+14 error extraneous: stable@0.1.5 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/stable
+14 error extraneous: stream-browserify@1.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/stream-browserify
+14 error extraneous: isarray@0.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/stream-browserify/node_modules/isarray
+14 error extraneous: readable-stream@1.1.14 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/stream-browserify/node_modules/readable-stream
+14 error extraneous: stringmap@0.2.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/stringmap
+14 error extraneous: stringset@0.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/stringset
+14 error extraneous: tapable@0.1.10 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/tapable
+14 error extraneous: through@2.3.8 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/through
+14 error extraneous: timers-browserify@1.4.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/timers-browserify
+14 error extraneous: trim-right@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/trim-right
+14 error extraneous: try-resolve@1.0.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/try-resolve
+14 error extraneous: tryor@0.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/tryor
+14 error extraneous: tty-browserify@0.0.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/tty-browserify
+14 error extraneous: uglify-js@2.6.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/uglify-js
+14 error extraneous: async@0.2.10 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/uglify-js/node_modules/async
+14 error extraneous: source-map@0.5.6 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/uglify-js/node_modules/source-map
+14 error extraneous: window-size@0.1.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/uglify-js/node_modules/window-size
+14 error extraneous: yargs@3.10.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/uglify-js/node_modules/yargs
+14 error extraneous: uglify-to-browserify@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/uglify-to-browserify
+14 error extraneous: url@0.10.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/url
+14 error extraneous: punycode@1.3.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/url/node_modules/punycode
+14 error extraneous: util@0.10.3 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/util
+14 error extraneous: vm-browserify@0.0.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/vm-browserify
+14 error extraneous: watchpack@0.2.9 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/watchpack
+14 error extraneous: async@0.9.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/watchpack/node_modules/async
+14 error extraneous: webpack@1.13.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/webpack
+14 error extraneous: acorn@3.2.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/webpack/node_modules/acorn
+14 error extraneous: supports-color@3.1.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/webpack/node_modules/supports-color
+14 error extraneous: webpack-core@0.6.8 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/webpack-core
+14 error extraneous: window-size@0.1.4 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/window-size
+14 error extraneous: wrappy@1.0.2 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/wrappy
+14 error extraneous: y18n@3.2.1 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/y18n
+14 error extraneous: yargs@3.27.0 /Users/seanreed1/Development/React/ProReact/chapter-1/node_modules/yargs
+15 error If you need help, you may report this error at:
+15 error     <https://github.com/npm/npm/issues>
+16 verbose exit [ 1, true ]

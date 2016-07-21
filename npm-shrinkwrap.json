@@ -109,6 +109,18 @@
         }
       }
     },
+    "babel-loader": {
+      "version": "5.4.0",
+      "from": "babel-loader@>=5.3.0 <6.0.0",
+      "resolved": "https://registry.npmjs.org/babel-loader/-/babel-loader-5.4.0.tgz",
+      "dependencies": {
+        "object-assign": {
+          "version": "3.0.0",
+          "from": "object-assign@>=3.0.0 <4.0.0",
+          "resolved": "https://registry.npmjs.org/object-assign/-/object-assign-3.0.0.tgz"
+        }
+      }
+    },
     "babel-plugin-constant-folding": {
       "version": "1.0.1",
       "from": "babel-plugin-constant-folding@>=1.0.1 <2.0.0",
@@ -2133,6 +2145,23 @@
         }
       }
     },
+    "webpack": {
+      "version": "1.13.1",
+      "from": "webpack@>=1.12.0 <2.0.0",
+      "resolved": "https://registry.npmjs.org/webpack/-/webpack-1.13.1.tgz",
+      "dependencies": {
+        "acorn": {
+          "version": "3.2.0",
+          "from": "acorn@>=3.0.0 <4.0.0",
+          "resolved": "https://registry.npmjs.org/acorn/-/acorn-3.2.0.tgz"
+        },
+        "supports-color": {
+          "version": "3.1.2",
+          "from": "supports-color@>=3.1.0 <4.0.0",
+          "resolved": "https://registry.npmjs.org/supports-color/-/supports-color-3.1.2.tgz"
+        }
+      }
+    },
     "webpack-core": {
       "version": "0.6.8",
       "from": "webpack-core@>=0.6.0 <0.7.0",
@@ -2142,6 +2171,18 @@
       "version": "1.6.1",
       "from": "webpack-dev-middleware@>=1.4.0 <2.0.0",
       "resolved": "https://registry.npmjs.org/webpack-dev-middleware/-/webpack-dev-middleware-1.6.1.tgz"
+    },
+    "webpack-dev-server": {
+      "version": "1.14.1",
+      "from": "webpack-dev-server@>=1.10.0 <2.0.0",
+      "resolved": "https://registry.npmjs.org/webpack-dev-server/-/webpack-dev-server-1.14.1.tgz",
+      "dependencies": {
+        "supports-color": {
+          "version": "3.1.2",
+          "from": "supports-color@>=3.1.1 <4.0.0",
+          "resolved": "https://registry.npmjs.org/supports-color/-/supports-color-3.1.2.tgz"
+        }
+      }
     },
     "websocket-driver": {
       "version": "0.6.5",

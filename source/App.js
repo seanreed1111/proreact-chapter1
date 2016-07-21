@@ -33,6 +33,17 @@ let cardsList = [
       },
 
     ]
+  },
+  {
+    id:3,
+    title: "Read my Book 3",
+    description: "This is my book description 3",
+    status: "done",
+    tasks: [{
+        id:1,
+        name: "Task 1 for id 3 - done",
+        done: true
+      }]
   }
 ];
 

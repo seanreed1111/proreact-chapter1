@@ -4,8 +4,7 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node_modules/.bin/webpack-dev-server --progress",
-    "shrink": "shrinkwrap --dev"
+    "start": "node_modules/.bin/webpack-dev-server --progress"
   },
   "keywords": [],
   "author": "Sean Reed",
